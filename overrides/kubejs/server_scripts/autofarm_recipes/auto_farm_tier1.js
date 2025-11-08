@@ -1,3 +1,4 @@
+//priority: 10
 function grow(itemIn,itemOut){
 
     ServerEvents.recipes(event => {
